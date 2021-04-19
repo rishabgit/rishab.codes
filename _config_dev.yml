@@ -1,13 +1,13 @@
 # Site settings
 name: Rishab Mallick
-title: Rishab Mallick | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+title: Rishab Mallick | Machine learning
+description: CS undergrad focused on building machine learning solutions scalable on the real world
 url: https://rishab.codes/
 baseurl: ''
 email: rishabmallick6@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+cover: https://rishab.codes/img/og.png
+logo: https://rishab.codes/img/emojis/technologist.png
+resume: https://rishab.codes/resume.pdf
 social:
   - title: email
     url: mailto:rishabmallick6@gmail.com

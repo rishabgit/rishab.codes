@@ -1,13 +1,12 @@
 courses:
-  - item: Deep Learning Specialization by DeepLearning.AI
-  - item: Mathematics for Machine Learning Specialization by Imperial College London
-  - item: Fundamentals of Reinforcement Learning by University of Alberta
-  - item: Sample-based Learning Methods by University of Alberta
-  - item: Data Science Math Skills by Duke University
+  - item: <a href="https://www.coursera.org/account/accomplishments/specialization/T8C5P4SSSVAM">Deep Learning Specialization</a> by DeepLearning.AI
+  - item: <a href="https://www.coursera.org/account/accomplishments/specialization/94D8AWFNTKHJ">Mathematics for Machine Learning Specialization</a> by Imperial College London
+  - item: <a href="https://www.coursera.org/account/accomplishments/verify/J7AX7J29ZFNR">Fundamentals of Reinforcement Learning</a> by University of Alberta
+  - item: <a href="https://www.coursera.org/account/accomplishments/certificate/A2NY595Q82BV">Sample-based Learning Methods</a> by University of Alberta
+  - item: <a href="https://www.coursera.org/account/accomplishments/certificate/G2PSH8HQQMBT">Data Science Math Skills</a> by Duke University
 
 things:
   - item: Python
-  - item: C++ 
   - item: Java
   - item: Tensorflow
   - item: Pytorch
