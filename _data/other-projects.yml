@@ -1,0 +1,23 @@
+- name: DR. APJ ABDUL KALAM IGNITE AWARD
+  url: http://nif.org.in/innovation/pay-as-you-weigh/846
+  code: http://nif.org.in/innovation/pay-as-you-weigh/846
+  description: Received IGNITE 2015 award by the former President of India, Pranab Mukherjee, for the idea ’Pay as you weigh’ - one of 31 innovations selected from across India. <br> Patent - 1189/KOL/2015
+  used:
+    - thing: National Innovation Foundation
+    - thing: November 2015
+
+- name: Regional Winner OF ZOOHACKATHON
+  url: https://devpost.com/software/zooskersky-team-pineapples-r64sqc
+  code: https://devpost.com/software/zooskersky-team-pineapples-r64sqc
+  description: Awarded for engineering best solution to curb wildlife trafficking among 12 other finalists.
+  used:
+    - thing: WWF
+    - thing: November 2019
+
+- name: Finalist of ACM India East Hackathon
+  url: https://github.com/rishabmallick/Sign-language-live-predictor/blob/master/certificates/Rishab.pdf
+  code: https://github.com/rishabmallick/Sign-language-live-predictor/blob/master/certificates/Rishab.pdf
+  description: Recognized for building an app for live sign language prediction during a 24-hr hackathon - one of 10 finalists from east India.
+  used:
+    - thing: Association for Computing Machinery
+    - thing: February 2020

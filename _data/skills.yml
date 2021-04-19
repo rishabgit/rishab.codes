@@ -1,0 +1,14 @@
+courses:
+  - item: Deep Learning Specialization by DeepLearning.AI
+  - item: Mathematics for Machine Learning Specialization by Imperial College London
+  - item: Fundamentals of Reinforcement Learning by University of Alberta
+  - item: Sample-based Learning Methods by University of Alberta
+  - item: Data Science Math Skills by Duke University
+
+things:
+  - item: Python
+  - item: C++ 
+  - item: Java
+  - item: Tensorflow
+  - item: Pytorch
+  - item: TFLite
