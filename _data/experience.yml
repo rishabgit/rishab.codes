@@ -1,15 +1,22 @@
+- company: WormBase x GSoC'21
+  url: https://summerofcode.withgoogle.com/projects/#4837497529434112
+  time: June 2021 - Current
+  position: Student Software Developer
+  description: • Researching and building information extraction pipeline for C. Elegans papers.
+  
+
 - company: Centre for Development of Advanced Computing
   url: https://www.cdac.in/
-  time: April 2021 - Current
+  time: April 2021 - June 2021
   position: Intern
-  description: • Working with the image processing team.
+  description: • Worked with the image processing team on facial recognition system.
 
 
 - company: Myraa Technologies
   url: https://www.myraatechnologies.com/
   time: September 2020 - March 2021
   position: ML Solutions Intern
-  description: • Built engineering drawing comparison tool for universities <br> • Designed ML process from scratch for damage diagnosis <br> • Explored privacy-preserving deep learning to protect sensitive data <br> • Built ML pipeline for invigilating software <br> • Worked on low-latency object detection models for industry-specific use case
+  description: • Built ML pipeline for invigilating software, and engineering drawing comparison tool for universities. <br> • Designed ML process from scratch for damage diagnosis. <br> • Explored usage of privacy-preserving deep learning tools and assisted in building other products.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
