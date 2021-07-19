@@ -7,7 +7,5 @@ courses:
 
 things:
   - item: Python
-  - item: Java
   - item: Tensorflow
   - item: Pytorch
-  - item: TFLite
