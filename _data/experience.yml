@@ -1,8 +1,8 @@
-- company: WormBase x GSoC'21
+- company: Google Summer of Code
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
   time: June 21 - August 21
   position: Student Software Developer
-  description: • Researching and building genomic information extraction pipeline for C. elegans papers.
+  description: • Organistion - Genome Assembly and Annotation. <br> • Researching and building genomic information extraction pipeline for C. elegans papers.
   
 
 - company: Centre for Development of Advanced Computing
@@ -16,7 +16,8 @@
   url: https://www.myraatechnologies.com/
   time: September 20 - March 21
   position: ML Solutions Intern
-  description: • Built ML pipeline for invigilating software, and engineering drawing comparison tool for universities. <br> • Designed ML process from scratch for damage diagnosis. <br> • Explored usage of privacy-preserving deep learning tools and assisted in building other products.
+  description: • Implemented various proof of concepts - <br> • Custom object detection model for wearable low-end devices, automated exam proctoring software,
+engineering drawing comparison tool, and car damage diagnosis system. <br> • Explored usage of privacy-preserving deep learning using PySyft.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
