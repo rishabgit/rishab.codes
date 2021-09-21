@@ -2,24 +2,24 @@
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
   time: June 21 - August 21
   position: Student Software Developer
-  description: • Organistion - Genome Assembly and Annotation. <br> • Researching and building genomic information extraction pipeline for C. elegans papers.
+  description: • Researched and created an automated framework for genomic data extraction from C. Elegans papers for WormBase using hybrid combination of regular expressions, dictionary of terms and BERT NER. <br> • Slashed the former biocuration timing of hours to few minutes, and also discovered new data from old papers previously missed during manual curation.
   
 
 - company: Centre for Development of Advanced Computing
   url: https://www.cdac.in/
   time: April 21 - June 21
   position: Research Intern
-  description: • Worked with the image processing team on facial recognition system.
+  description: • Worked with the image processing team on designing a mask compatible facial recognition system implemented for low-end devices using Python/TFLite.
 
 
 - company: Myraa Technologies
   url: https://www.myraatechnologies.com/
   time: September 20 - March 21
   position: ML Solutions Intern
-  description: • Implemented various proof of concepts - <br> • Custom object detection model for wearable low-end devices, automated exam proctoring software, engineering drawing comparison tool, and car damage diagnosis system. <br> • Explored usage of privacy-preserving deep learning using PySyft.
+  description: • Crafted a custom object detection model for wearable low-end devices using Python/TFLite/Java/Android Studio. <br> • Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition, eye tracking, lip movement check and gadget detection. <br> • Few other proofs of concepts - Programmed an engineering drawing comparison tool for universities using image processing techniques, engineered a car damage diagnosis system using Pytorch hooks, and explored usage of privacy-preserving deep learning using PySyft.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
   time: August 20 - September 20
   position: Data Analyst Intern
-  description: • Coded scripts to remove discrepancies in geographical data using mapping APIs for dealers.
+  description: • Coded scripts to remove discrepancies in geographical data for the local dealers using mapping APIs.
