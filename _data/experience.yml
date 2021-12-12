@@ -22,7 +22,7 @@
   url: https://www.myraatechnologies.com/
   time: September 20 - March 21
   position: ML Solutions Intern
-  description: • Crafted a custom object detection model for wearable low-end devices using Python/TFLite/Java/Android Studio. <br> • Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition, eye tracking, lip movement check and gadget detection. <br> • Few other proofs of concepts - Programmed an engineering drawing comparison tool for universities using image processing techniques, engineered a car damage diagnosis system using Pytorch hooks, and explored usage of privacy-preserving deep learning using PySyft.
+  description: • Crafted custom object detection model for wearable low-end devices using Python/TFLite/Android Studio/Java. <br> • Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition and features tracking, and gadget detection. <br> • Few other proofs of concepts - Programmed an engineering drawing comparison tool for universities, worked on car damage diagnosis system using low data, and explored usage of privacy-preserving deep learning using PySyft.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
