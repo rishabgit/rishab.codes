@@ -1,13 +1,13 @@
 # Site settings
 name: Rishab Mallick
 title: Rishab Mallick | Machine learning
-description: CS undergrad focused on building machine learning solutions scalable on the real world
-url: https://rishab.codes/
+description: CS undergrad and a Machine learning practitioner
+url: https://rishab.page/
 baseurl: ''
 email: rishabmallick6@gmail.com
-cover: https://rishab.codes/img/og.png
-logo: https://rishab.codes/img/emojis/technologist.png
-resume: https://rishab.codes/resume.pdf
+cover: https://rishab.page/img/og.png
+logo: https://rishab.page/img/emojis/technologist.png
+resume: https://rishab.page/resume.pdf
 social:
   - title: email
     url: mailto:rishabmallick6@gmail.com
