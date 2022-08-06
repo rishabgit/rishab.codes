@@ -1,31 +1,37 @@
 - company: Small Joys
   url: https://www.linkedin.com/company/smalljoys/
+  time: August 22 - Current
+  position: Data Scientist
+  description: • R&D on everything AI at Small Joys.
+
+- company: Small Joys
+  url: https://www.linkedin.com/company/smalljoys/
   time: November 21 - Current
   position: Data Science Intern
-  description: • Building the AI backend for social journaling platform.
+  description: • Building the AI backend for the social journaling platform.
 
 - company: Google Summer of Code
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
   time: June 21 - August 21
   position: Student Software Developer
-  description: • Researched and created an automated framework for genomic data extraction from C. Elegans papers for WormBase using hybrid combination of regular expressions, dictionary of terms and BERT NER. <br> • Slashed the former biocuration timing of hours to few minutes, and also discovered new data from old papers previously missed during manual curation.
+  description: • GenomicInfo - Researched and created an automated framework for genomic data extraction from C. Elegans papers for WormBase using hybrid combination of regular expressions, dictionary of terms and BERT NER. <br> • Results - Slashed the former biocuration timing of hours to few minutes, and also discovered new data from old papers previously missed during manual curation.
   
 
 - company: Centre for Development of Advanced Computing
   url: https://www.cdac.in/
   time: April 21 - June 21
   position: Research Intern
-  description: • Worked with the image processing team on designing a mask compatible facial recognition system implemented for low-end devices using Python/TFLite.
+  description: • Masked Face Recognition - Worked with the image processing team on designing a mask compatible facial recognition system implemented for low-end devices using Python/TFLite.
 
 
 - company: Myraa Technologies
   url: https://www.myraatechnologies.com/
   time: September 20 - March 21
   position: ML Solutions Intern
-  description: • Crafted custom object detection model for wearable low-end devices using Python/TFLite/Android Studio/Java. <br> • Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition and features tracking, and gadget detection. <br> • Few other proofs of concepts - Programmed an engineering drawing comparison tool for universities, worked on car damage diagnosis system using low data, and explored usage of privacy-preserving deep learning using PySyft.
+  description: • Object Detection - Crafted custom object detection model for wearable low-end devices using TFLite/Android Studio/Java. <br> • Exam Proctor - Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition and features tracking, and gadget detection. <br> • CAD Comparer - Programmed an engineering drawing comparison tool for universities. <br> • Other POCs - Car damage diagnosis system on low data, & explored usage of privacy-preserving DL with PySyft.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
   time: August 20 - September 20
   position: Data Analyst Intern
-  description: • Coded scripts to remove discrepancies in geographical data for the local dealers using mapping APIs.
+  description: • Analysis - Coded scripts to remove discrepancies in geographical data for the local dealers using mapping APIs.
