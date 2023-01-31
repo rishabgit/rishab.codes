@@ -1,14 +1,9 @@
 - company: Small Joys
   url: https://www.linkedin.com/company/smalljoys/
-  time: August 22 - Current
-  position: Data Scientist
-  description: • R&D on everything AI at Small Joys.
+  time: November 21 - Current
+  position: AI Engineer
+  description: • Inclusive AI - Working on mitigating unintended bias to improve robustness against adversarial text. <br> • Deployment - Built inference API pipeline on AWS. Tools - Lambda, DataSync, EC2, Docker, FastAPI. <br> • Health - Pilot project for predicting behavioral health from therapy sessions. <br> • Insights - Part of the therapist dashboard - shows easy-to-digest information from user journals using an ensemble of modules. R&D on Themes and Journal Abstraction AI modules. <br> • ScreenerOMR - Python package for extracting answers and relevant data from scanned medical screeners. <br> • Annotation - Setup annotator cohorts with a team lead and designed labeling process for golden data generation. Built classification data augmentation module using GPT-3.
 
-- company: Small Joys
-  url: https://www.linkedin.com/company/smalljoys/
-  time: November 21 - July 22
-  position: Data Science Intern
-  description: • Building the AI backend for the social journaling platform.
 
 - company: Google Summer of Code
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
