@@ -7,7 +7,4 @@ courses:
   - item: <a href="https://www.stcet.org/">Artificial Intelligence, Pattern Recognition, Image Processing, Numerical Methods, Soft Computing, Operations Research, Machine Learning</a> Elective courses
 
 things:
-  - item: Python
-  - item: Tensorflow
-  - item: Pytorch
-  - item: SQL
+  - item: Coding
