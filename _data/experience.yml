@@ -1,32 +1,38 @@
-- company: Small Joys
-  url: https://www.linkedin.com/company/smalljoys/
-  time: November 21 - Current
+- company: Unify (YC W23)
+  url: https://unify.ai/
+  time: May 23 - Current
   position: AI Engineer
-  description: • Inclusive AI - Working on mitigating unintended bias to improve robustness against adversarial text. <br> • Deployment - Built inference API pipeline on AWS. Tools - Lambda, DataSync, EC2, Docker, FastAPI. <br> • Health - Pilot project for predicting behavioral health from therapy sessions. <br> • Insights - Part of the therapist dashboard - shows easy-to-digest information from user journals using an ensemble of modules. R&D on Themes and Journal Abstraction AI modules. <br> • ScreenerOMR - Python package for extracting answers and relevant data from scanned medical screeners. <br> • Annotation - Setup annotator cohorts with a team lead and designed labeling process for golden data generation. Built classification data augmentation module using GPT-3.
+  description: • AI Bench - Designed methodology & implemented runtime performance benchmarking with CI/CD infra on GCP on multi-regions. <br> • Model Hub - Created LLM provider router supporting various platforms such as Perplexity, Replicate, OpenAI, Anyscale, TogetherAI, VertexAI, OctoAI, and Mistral. <br> • Ivy Framework - Integrated Ivy into OSS repos - BentoML, Seldon-Core, Seldon-MLServer, MMPretrain. Added new functions, and reviewed PRs, ensuring code quality and compliance with standards. <br> • Transpiler -  Remodeled source code generation logic to comply with torch.fx convention for easier debugging. Improved compatibility & coded demos for ConvNext-RCNN, MD-nets, MaskRCNN, Falcon-7B. Researched TPU support for transpilation & framework-agnostic profiler for PyTorch, Jax, and TF. <br> • Enterprise Demos Lead - Collaborated with the Head of Operations on sales calls and market research for future product direction. Managed cross-functional teams, oversaw development, and defined demo objectives, ensuring alignment with organizational goals. Executed public demos showcasing value prop - XGBoost, MMPretrain.
+
+- company: Small Joys
+  url: https://smalljoys.life/home
+  time: November 21 - Aug 23
+  position: AI Engineer
+  description: • Inclusive AI - Addressed unintended bias to improve model robustness against adversarial text, resulting in a model that outperformed Google and AWS sentiment analysis (at the time) on internal datasets. <br> • Deployment - Built inference API pipeline on AWS - Lambda, DataSync, EC2, Docker, FastAPI. <br> • Health - Pilot project for predicting behavioral health from therapy sessions. <br> • Therapist Dashboard Insights -  Easy-to-digest information for therapists from user journals using an ensemble of modules. R&D on Themes and Journal Abstraction AI modules. <br> • ScreenerOMR - Developed a Python package for extracting pertinent data from scanned medical screeners. <br> • Annotation Framework - Organized annotator teams of 10 people, devised labeling process for golden data. Developed classification data augmentation with GPT-3.
 
 
 - company: Google Summer of Code
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
   time: June 21 - August 21
   position: Student Software Developer
-  description: • GenomicInfo - Researched and created an automated framework for genomic data extraction from C. Elegans papers for WormBase using hybrid combination of regular expressions, dictionary of terms and BERT NER. <br> • Results - Slashed the former biocuration timing of hours to few minutes, and also discovered new data from old papers previously missed during manual curation.
+  description: • GenomicInfo - Engineered a framework for rapid genomic data extraction from C. Elegans papers for WormBase, employing a hybrid method of regular expressions, term dictionaries, and BERT NER. <br> • Impact - Cut manual biocuration time from hours to minutes, while uncovering overlooked data from older papers.
   
 
 - company: Centre for Development of Advanced Computing
   url: https://www.cdac.in/
   time: April 21 - June 21
   position: Research Intern
-  description: • Masked Face Recognition - Worked with the image processing team on designing a mask compatible facial recognition system implemented for low-end devices using Python/TFLite.
+  description: • Masked Face Recognition - Collaborated with the image processing team to design a facial recognition system compatible with masks, tailored for low-end devices - TFLite.
 
 
 - company: Myraa Technologies
   url: https://www.myraatechnologies.com/
   time: September 20 - March 21
   position: ML Solutions Intern
-  description: • Object Detection - Crafted custom object detection model for wearable low-end devices using TFLite/Android Studio/Java. <br> • Exam Proctor - Designed an end-to-end online exam proctoring pipeline from scratch consisting of facial recognition and features tracking, and gadget detection. <br> • CAD Comparer - Programmed an engineering drawing comparison tool for universities. <br> • Other POCs - Car damage diagnosis system on low data, & explored usage of privacy-preserving DL with PySyft.
+  description: • Detection - Developed custom object detection for low-end wearable devices in manufacturing - TFLite, Android. <br> • e-Proctor - Built online exam e-proctor with facial recognition and features tracking, and gadget detection. <br> • CADAnalyzer - Programmed engineering drawing comparison tool for universities. <br> • Explorative POCs - Car damage diagnosis system on low data, & usage of privacy-preserving DL with PySyft.
 
 - company: Tata Steel
   url: https://www.tatasteel.com/
   time: August 20 - September 20
   position: Data Analyst Intern
-  description: • Analysis - Coded scripts to remove discrepancies in geographical data for the local dealers using mapping APIs.
+  description: • Analysis - Developed scripts to rectify discrepancies in geographical data for local dealers utilizing mapping APIs.
