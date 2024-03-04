@@ -2,27 +2,27 @@
   url: https://unify.ai/
   time: May 23 - Current
   position: AI Engineer
-  description: • AI Bench - Designed methodology & implemented runtime performance benchmarking with CI/CD infra on GCP on multi-regions. <br> • Model Hub - Created LLM provider router supporting various platforms such as Perplexity, Replicate, OpenAI, Anyscale, TogetherAI, VertexAI, OctoAI, and Mistral. <br> • Ivy Framework - Integrated Ivy into OSS repos - BentoML, Seldon-Core, Seldon-MLServer, MMPretrain. Added new functions, and reviewed PRs, ensuring code quality and compliance with standards. <br> • Transpiler -  Remodeled source code generation logic to comply with torch.fx convention for easier debugging. Improved compatibility & coded demos for ConvNext-RCNN, MD-nets, MaskRCNN, Falcon-7B. Researched TPU support for transpilation & framework-agnostic profiler for PyTorch, Jax, and TF. <br> • Enterprise Demos Lead - Collaborated with the Head of Operations on sales calls and market research for future product direction. Managed cross-functional teams, oversaw development, and defined demo objectives, ensuring alignment with organizational goals. Executed public demos showcasing value prop - XGBoost, MMPretrain.
+  description: • AI Bench - Designed methodology & implemented runtime performance benchmarking with CI/CD infra on GCP. <br> • Model Hub - Created LLM provider router supporting Perplexity, Replicate, OpenAI, Anyscale, Vertex AI etc. <br> • Ivy Framework - Integrated Ivy into OSS repos - BentoML, Seldon-Core, Seldon-MLServer, MMPretrain. Added new functions, reviewed PRs, ensuring code quality & compliance with standards. <br> • Transpiler - Remodeled source code generation logic to comply with torch.fx convention for easier debugging. Researched TPU support for transpilation & framework-agnostic (PyTorch, Jax, TensorFlow) profiler. <br> • Enterprise Demos Lead - Collaborated with the Head of Operations on sales calls & market research for future product direction. Managed cross-functional teams, oversaw development, & defined demo objectives, ensuring alignment with organizational goals. Executed public demos showcasing value prop - XGBoost, MMPretrain.
 
 - company: Small Joys
   url: https://smalljoys.life/home
   time: November 21 - Aug 23
-  position: AI Engineer
-  description: • Inclusive AI - Addressed unintended bias to improve model robustness against adversarial text, resulting in a model that outperformed Google and AWS sentiment analysis (at the time) on internal datasets. <br> • Deployment - Built inference API pipeline on AWS - Lambda, DataSync, EC2, Docker, FastAPI. <br> • Health - Pilot project for predicting behavioral health from therapy sessions. <br> • Therapist Dashboard Insights -  Easy-to-digest information for therapists from user journals using an ensemble of modules. R&D on Themes and Journal Abstraction AI modules. <br> • ScreenerOMR - Developed a Python package for extracting pertinent data from scanned medical screeners. <br> • Annotation Framework - Organized annotator teams of 10 people, devised labeling process for golden data. Developed classification data augmentation with GPT-3.
+  position: Founding AI Engineer
+  description: • Inclusive AI - Addressed unintended bias in NLP, enhancing model robustness against adversarial text, surpassing Google & AWS sentiment analysis on internal datasets. Deployed inference API on AWS. <br> • Health - Pilot project for predicting behavioral health from therapy sessions through multiple modalities. <br> • Insights - Easy-to-digest information for therapists from user journals through Themes & Journal Abstraction AI. <br> • ScreenerOMR - Constructed a Python package for extracting pertinent data from scanned medical screeners. <br> • Annotation Framework - Implemented annotator cohorts of 10, & devised labeling process for golden data of sentiment, emotion, ACEs, and ICD-10. Wrote classification data augmentation with GPT-3.
 
 
 - company: Google Summer of Code
   url: https://summerofcode.withgoogle.com/projects/#4837497529434112
   time: June 21 - August 21
   position: Student Software Developer
-  description: • GenomicInfo - Engineered a framework for rapid genomic data extraction from C. Elegans papers for WormBase, employing a hybrid method of regular expressions, term dictionaries, and BERT NER. <br> • Impact - Cut manual biocuration time from hours to minutes, while uncovering overlooked data from older papers.
+  description: • GenomicInfo - Engineered a framework for rapid genomic data extraction from C. Elegans papers for WormBase, employing a hybrid method of regular expressions, term dictionaries, & BERT NER. <br> • Impact - Cut manual biocuration time from hours to minutes, while uncovering overlooked data from older papers. Published `Accelerated variant curation from scientific literature using biomedical text mining` in microPublication Biology with Valerio Arnaboldi, Paul Davis, Stavros Diamantakis, Magdalena Zarowiecki, & Kevin Howe.
   
 
 - company: Centre for Development of Advanced Computing
   url: https://www.cdac.in/
   time: April 21 - June 21
   position: Research Intern
-  description: • Masked Face Recognition - Collaborated with the image processing team to design a facial recognition system compatible with masks, tailored for low-end devices - TFLite.
+  description: • Masked Face Recognition - Crafted a facial recognition system compatible with masks for law enforcement authorities, tailored for low-end devices in collaboration with the image processing team.
 
 
 - company: Myraa Technologies
